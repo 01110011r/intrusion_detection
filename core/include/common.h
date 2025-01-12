@@ -1,0 +1,8 @@
+//
+// Created by samandar on 1/12/25.
+//
+
+#ifndef INTRUSION_DETECTION_COMMON_H
+#define INTRUSION_DETECTION_COMMON_H
+
+#endif //INTRUSION_DETECTION_COMMON_H
